@@ -2,7 +2,7 @@
   "name": "ars",
   "version": "0.4.0",
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "dateformat": "^3.0.3",
     "sort-es": "^1.1.10",
     "xlsx-populate": "^1.21.0"
